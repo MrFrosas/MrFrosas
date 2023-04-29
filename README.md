@@ -1,7 +1,9 @@
-# 💫 About Me:
-👌C'est moi wsh<br>🕹️ca joue a balleee
+# Hey there👋
+Welcome to my page! I am MrFrosas, a student addicted to new technologies from Nantes, France.
+<br>
+I also play video games and travel a lot to discover new horizons ;)
 
-
+*Oh and I sometimes write things on my blog! 📝*
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MrFrosis#0775) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MrFrosas) 
 
