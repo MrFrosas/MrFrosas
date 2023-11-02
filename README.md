@@ -8,10 +8,10 @@ I also play video games and travel a lot to discover new horizons ;)
 ### **🪄 Projects**
 Many of my projects are ongoing or private, meanwhile my favorite projects are: 
 - Cloud Computing, Release date: ~2024
-* Minecraft playable online on internet, Release date: No idea
+* Founder of CCGAME, Video game communication website
 
 ### **🖱️Skills & Tools**
-I'm still learning HTML, CSS, Javascript and UNREAL engine 5, these are my favorite things at the moment.
+I'm still learning HTML, CSS, Javascript and graphic design, these are my favorite things at the moment.
 I love to discover, learn and design new projects along the way.
 
 
