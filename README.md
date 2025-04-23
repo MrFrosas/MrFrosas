@@ -1,10 +1,10 @@
 <!--
   ────────────────────────────────────────────────────────────────
-                           Bonjour, je suis [Votre Nom] 👋
+                           Bonjour, je suis Thomas Bidault 👋
   ────────────────────────────────────────────────────────────────
 -->
 
-# Salut, moi c'est **[Votre Nom]**  
+# Salut, moi c'est **Thomas**  
 *Développeur React, VueJS & IA – Passionné par l'innovation interactive*
 
 ---
@@ -40,14 +40,8 @@ J'adore concevoir des applications fonctionnelles, interactives et esthétiques 
 
 Quelques projets qui illustrent mon savoir-faire :
 
-- **[Projet Innovant #1](https://votre-lien-projet1.com)**  
-  *Application React avec intégration d'une IA conversationnelle pour une interaction en temps réel.*
-
-- **[Projet Créatif #2](https://votre-lien-projet2.com)**  
-  *Interface VueJS interactive avec animations et transitions modernes.*
-
-- **[Projet Futuriste #3](https://votre-lien-projet3.com)**  
-  *Solution hybride combinant React et IA pour une expérience utilisateur révolutionnaire.*
+- **[Verexo](https://verexo.ccsglobal.fr)**  
+  *Application React avec intégration d'une IA pour une assistance avce la participation de la communauté*
 
 ---
 
@@ -71,9 +65,8 @@ Quelques projets qui illustrent mon savoir-faire :
 ## Contact & Réseaux
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/votreprofil)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/votreprofil)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me)](https://votre-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thomas-bidaultt)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mrfrosis_os)  
 </div>
 
 ---
